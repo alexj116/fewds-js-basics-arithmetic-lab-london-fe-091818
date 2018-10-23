@@ -12,9 +12,6 @@ const newID=oldID+1000000000;
 
 //AgeIsValid contains True when the value in currentAge is a valid inteher
 
- let currentAge = "ageNow";
-function isInteger(${ageNow});
-
 
 const randomNumber=Math.floor((Math.random() * 20) + 1);
 
